@@ -17,7 +17,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Run Lint
+## Run lint
 ```bash
 $ npm run lint
 ```
@@ -34,7 +34,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Run a Docker for MongoDb
+## Run a docker for mongodb
 ```bash
 #Start the MongoDB container
 $ docker-compose up -d
